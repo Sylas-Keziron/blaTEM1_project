@@ -1,0 +1,14 @@
+> CP165553.1
+Length: 5176918 bp
+GC content: 50.55%
+First 30 aa (protein): NSL
+----------------------------------------
+> CP104600.1
+Length: 94780 bp
+GC content: 52.73%
+First 30 aa (protein): SCSSR
+----------------------------------------
+> OZ043779.1
+Length: 142113 bp
+GC content: 50.85%
+First 30 aa (protein): VDKSSGELVTLTPNNNNTVQPVALMRLGVF
